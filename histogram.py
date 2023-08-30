@@ -1,6 +1,6 @@
 import cv2
 import os
-
+#shreya humari new teacher!!
 # Define the directory where your input images are located
 input_directory = './gaussian_blur/test'
 
