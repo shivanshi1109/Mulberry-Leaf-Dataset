@@ -3,8 +3,8 @@ import numpy as np
 import os
 
 # Replace with the directory containing your images
-image_directory = 'C:/Users/shiva/Downloads/Mulberry Leaf Dataset/Mulberry Leaf Dataset/Training set/training dataset'
-output_directory = 'C:/Users/shiva/Downloads/Mulberry Leaf Dataset/output'
+image_directory = 'C:/Users/Envy/Desktop/Mulberry-Leaf-Dataset/Mulberry Leaf Dataset/Test set/training dataset'
+output_directory = 'C:/Users/Envy/Desktop/Mulberry-Leaf-Dataset/output_testin'
 
 # Get a list of image filenames in the directory
 image_files = os.listdir(image_directory)
