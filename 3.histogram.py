@@ -2,10 +2,10 @@ import cv2
 import os
 #shreya humari new teacher!!
 # Define the directory where your input images are located
-input_directory = './gaussian_blur/novelty'
+input_directory = './gaussian_blur/leaf spot'
 
 # Define the directory where the equalized images will be saved
-output_directory = './histogram/novelty'
+output_directory = './histogram/leaf spot'
 
 # Ensure the output directory exists
 os.makedirs(output_directory, exist_ok=True)
