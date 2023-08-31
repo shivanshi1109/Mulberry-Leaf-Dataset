@@ -3,8 +3,8 @@ import numpy as np
 import os
 
 # Replace with the directory containing your images
-image_directory = './histogram/test'
-output_directory = './dummy'
+image_directory = './histogram/novelty'
+output_directory = './minmax/novelty'
 
 # Get a list of image filenames in the directory
 image_files = os.listdir(image_directory)

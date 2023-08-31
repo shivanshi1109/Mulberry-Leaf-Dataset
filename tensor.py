@@ -6,9 +6,9 @@ height = 224    # Height of the images in pixels
 width = 224     # Width of the images in pixels
 channels = 1    # Number of color channels (1 for grayscale)
 
-batch_size = 237
-input_folder = './minmax/test'
-output_folder = './data_formatting/test'
+batch_size = 530
+input_folder = './minmax/novelty'
+output_folder = './data_formatting/novelty'
 
 # Get a list of image file names in the input folder
 image_files = os.listdir(input_folder)

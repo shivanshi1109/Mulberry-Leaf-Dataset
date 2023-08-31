@@ -2,10 +2,10 @@ import cv2
 import os
 
 # Define the input directory where your noisy images are located
-input_directory = './output_testing'
+input_directory = './resize_normalise_grayscale/novelty'
 
 # Define the output directory where the blurred images will be saved
-output_directory = './gaussian_blur/test'
+output_directory = './gaussian_blur/novelty'
 
 # Ensure the output directory exists
 os.makedirs(output_directory, exist_ok=True)
