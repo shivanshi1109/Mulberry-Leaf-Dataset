@@ -36,7 +36,3 @@ df = pd.DataFrame(data)
 df.to_csv('encoded_labels.csv', index=False)
 
 print("CSV file 'encoded_labels.csv' has been created.")
-
-
-
-
